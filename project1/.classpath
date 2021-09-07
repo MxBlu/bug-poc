@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src-solr"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/solr-solrj-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/solr-analysis-extras-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/solr-analytics-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-5.1.0.jar" />
+	<classpathentry kind="lib" path="lib/lucene-highlighter-5.1.0.jar" />
+	<classpathentry kind="lib" path="lib/lucene-queryparser-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-misc-5.1.0.jar" />
+	<classpathentry kind="lib" path="lib/lucene-queries-5.1.0.jar" />
+	<classpathentry kind="lib" path="lib/log4j-1.2.6.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-suggest-5.1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/solr-core-5.1.0-SNAPSHOT.jar" />
+	<classpathentry kind="lib" path="lib/lucene-core-5.1.0-SNAPSHOT.jar" />
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

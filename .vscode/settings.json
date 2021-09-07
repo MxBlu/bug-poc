@@ -1,0 +1,9 @@
+{
+    "java.import.exclusions": [
+        "**/project1/**"
+    ],
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.dependency.packagePresentation": "flat",
+    "java.autobuild.enabled": true,
+    "java.debug.settings.hotCodeReplace": "auto"
+}
